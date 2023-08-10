@@ -6,7 +6,7 @@ Web and mobile developer
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [farhminait@gmail.com](mailto:farhminait@gmail.com)
-* 🧠  I'm learning React and React native
+* 🧠  I'm coding React and React native
 
 ### Skills
 
